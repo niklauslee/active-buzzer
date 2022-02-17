@@ -1,0 +1,6 @@
+{
+  "name": "active-buzzer",
+  "version": "1.0.0",
+  "description": "Kaluma library to generate beep sound with active buzzer",
+  "main": "index.js"
+}
